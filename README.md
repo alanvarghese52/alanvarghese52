@@ -10,10 +10,9 @@
 <img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/devis-varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devis-varghese" height="30" width="40" /></a>
-<a href="https://fb.com/devis varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devis varghese" height="30" width="40" /></a>
-<a href="https://instagram.com/devzzzzzzzzzz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devzzzzzzzzzz" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/devisvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="devisvc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alan-varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-varghese" height="30" width="40" /></a>
+<a href="https://fb.com/alan varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alan varghese" height="30" width="40" /></a>
+<a href="https://instagram.com/alan._.varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan varghese" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +21,6 @@
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allensphilip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>  
 </p>
  📊 MY GITHUB STATS
-  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=allensphilip&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvarghese52&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/devisvargh8"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="200" alt="devis varghese" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/alanvarghese"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="200" alt="alan varghese" /></a></p><br><br>
