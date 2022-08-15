@@ -23,4 +23,4 @@
  📊 MY GITHUB STATS
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvarghese52&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alanvarghese"> <img align="left" src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg" height="50" width="200" alt="alan varghese" /></a></p><br><br>
+
