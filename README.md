@@ -22,5 +22,5 @@
 </p>
  📊 MY GITHUB STATS
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvarghese52&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <h3 align="left">Support:</h3>
+ 
 
