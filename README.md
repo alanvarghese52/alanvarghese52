@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alan Varghese</h1>
 <h3 align="center">A motivated Programmer who aims to excel in life</h3>
-<h2 align="center"><img  width="500" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47dhhjksdtydncckecui28vd47vctauz3klu48b2pw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<h2 align="center"><img  width="500" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv">
 <! img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 <h4 width="100"> 🔭 I have finished my Master in computer Application at Amal Jyothi College,Kanjirapally.<br>
 🌱 I’m currently do an Internship in Flutter at Soften Technologies, Ernakulam .<br>
