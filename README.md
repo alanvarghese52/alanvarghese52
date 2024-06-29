@@ -3,14 +3,14 @@
 <h2 align="center"><img  width="500" src="https://giphy.com/gifs/SWoSkN6DxTszqIKEqv.gif">
 <! img width="2000" src="https://github.com/halfrost/halfrost/blob/master/icons/header_1.png">
 <h4 width="100"> 🔭 I have finished my Master in computer Application at Amal Jyothi College,Kanjirapally.<br>
-🌱 I’m currently do an Internship in Flutter at Soften Technologies, Ernakulam .<br>
+🌱 Ihave finished an Internship in Flutter at Soften Technologies, Ernakulam .<br>
 👯 I’m looking to collaborate with other programmers.<br>
 ⚡️ Fun fact:I love to Travel,eat and CODE.<br>
   In my opinion, love is the best teacher for everything. It is far better than responsibility. </h4>
 <img src="https://i.gifer.com/HaD1.gif">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/alan-varghese-366836224" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-varghese" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/alan-varghese-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alan-varghese" height="30" width="40" /></a>
 <a href="https://fb.com/alan varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alan varghese" height="30" width="40" /></a>
 <a href="https://instagram.com/alan._.varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan varghese" height="30" width="40" /></a>
 </p>
