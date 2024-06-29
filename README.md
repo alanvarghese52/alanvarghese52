@@ -66,8 +66,15 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-    
 </p>
+
+<h3 align="left">Currently Working in :</h3>
+<p align="left">
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png" alt="linux" width="400" height="300"/>
+  </a>
+</p>
+
 
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allensphilip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>  
 </p>
