@@ -15,9 +15,6 @@
 <a href="https://instagram.com/alan_._varghese" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alan varghese" height="30" width="40" /></a>
 </p>
 
-
-
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -54,26 +51,24 @@
   </a>
  <br>
   
-
   <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google cloud" width="40" height="40"/>
   </a>
   <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.egovaleo.it%2Fgeek-lab%2Fazure-cose-e-a-cosa-serve%2F&psig=AOvVaw1Djc3X5iT4KMn9cfqgu_0a&ust=1719755014392000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIis2uz4gIcDFQAAAAAdAAAAABAJ" alt="Microsoft Azure" width="40" height="40"/>
+    <img src="https://www.egovaleo.it/wp-content/uploads/2023/10/logo-c-sharp-1.png" alt="Microsoft Azure" width="40" height="40"/>
   </a>
- 
+   <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
+  </a> 
+  <a href="https://www.microsoft.com/en-in/windows" target="_blank" rel="noreferrer">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4EbhJp8Wl_8Mm-DeQYCH0ykm4X-nQdPC17A&s" alt="windows" width="40" height="40"/>
+  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   </a>
-  
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>    
-  
-  
+    
 </p>
 
-    
    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=allensphilip&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>  
 </p>
  📊 MY GITHUB STATS
