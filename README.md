@@ -71,7 +71,7 @@
 <h3 align="left">Currently Working in :</h3>
 <p align="left">
 <a href="https://flutter.dev/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png" alt="Flutter" width="400" height="250"/>
+    <img src="https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png" alt="Flutter" width="450" height="250"/>
   </a>
 </p>
 
