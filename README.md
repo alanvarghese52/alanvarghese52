@@ -14,7 +14,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://i.gifer.com/HaD1.gif" alt="Fun GIF">
+  <img src="https://i.gifer.com/7zwd.gif" alt="Fun GIF">
 </p>
 
 <h3 align="left">Connect with me:</h3>
