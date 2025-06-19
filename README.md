@@ -86,11 +86,6 @@
     <img src="https://cdn.prod.website-files.com/5f841209f4e71b2d70034471/6078b650748b8558d46ffb7f_Flutter%20app%20development.png" alt="Flutter" width="450" height="250"/>
   </a>
 </p>
-
-<p align="left">
-  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Alan Varghese's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alanvarghese52&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-</p>
-
 <p align="left">
   <img alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanvarghese52&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
